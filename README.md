@@ -48,6 +48,9 @@ Linear interpolation (triangular kernel).
 
 Comparison is shown around **t = 3 sec**.
 
+**MATLAB Source Code**  
+Click below to view the full MATLAB implementation with syntax highlighting:  
+[`main.m`](src/main.m)
 ---
 
 ## Example Visualizations (Insert Your Plots Here)
