@@ -6,4 +6,4 @@ The project also includes full visualizations and audio signal synthesis.
 
 ---
 
-## 📌 **Project Structure**
+##  **Project Structure**
