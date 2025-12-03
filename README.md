@@ -50,8 +50,8 @@ Comparison is shown around **t = 3 sec**.
 
 ---
 
-##  Example Visualizations (Insert Your Plots Here)
+## Example Visualizations (Insert Your Plots Here)
 
-```markdown
 ![Fourier Transform](images/Amplitudes.png)
+
 ![Reconstruction Comparison](images/Reconstructed_signals.png)
