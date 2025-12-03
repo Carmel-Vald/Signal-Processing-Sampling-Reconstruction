@@ -54,4 +54,4 @@ Comparison is shown around **t = 3 sec**.
 
 ```markdown
 ![Fourier Transform](images/Amplitudes.png)
-![Reconstruction Comparison](images/Reconstructed signals.png)
+![Reconstruction Comparison](images/Reconstructed_signals.png)
